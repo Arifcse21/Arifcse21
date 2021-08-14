@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Md. Abdullah Al Arif
-- 👀 I’m interested in Python and Robotics
-- 🌱 I’m currently learning Intermediate python.
-- 💞️ I’m looking for a python software developer internship.
+- 💞️ I’m looking for a Software Engineering internship
 - 📫 +8801781326647
 
 <!---
