@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Md. Abdullah Al Arif
-- 💞️ I’m looking for a Software Engineering internship
+- 👋 Hi, I’m Md Abdullah Al Arif
+- 💞️ I’m looking for a Full Time Software Developer job.
 - 📫 +8801781326647
 
 <!---
