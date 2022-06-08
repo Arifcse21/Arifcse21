@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md Abdullah Al Arif
-- 💞️ I’m looking for Full Time Backend Engineer | DevOps Engineer job.
+- 💞️ I’m looking for Full Time Python Backend Engineer job.
 - 📫 +8801781326647
 
 <!---
