@@ -41,7 +41,7 @@
 
 <h3 align="left">DevOps:</h3>
 <p align="left">
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="40" height="40"/> </a> 
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://voicefoundry.com/wp-content/uploads/2018/09/feature-aws.jpg" alt="aws" width="40" height="40"/> </a> 
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 
