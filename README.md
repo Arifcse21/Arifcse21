@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifcse21&label=Profile%20views&color=0e75b6&style=flat" alt="arifcse21" /> </p>
 
 
-- 💬 Ask me about **Linux, Pyhton, Django, Raspberry Pi, AWS**
+- 💬 Ask me about **Linux, Python, Django, Raspberry Pi, AWS**
 
 - 📫 How to reach me **arifcse21@gmail.com**
 
