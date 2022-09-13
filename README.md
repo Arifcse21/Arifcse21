@@ -55,8 +55,3 @@
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="raspberry pi" width="40" height="40" title="Raspberry Pi"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim editor" width="40" height="40" title="VIM terminal text editor"/> </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifcse21&" alt="arifcse21" /></p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arifcse21)  
