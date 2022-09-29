@@ -55,3 +55,5 @@
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="raspberry pi" width="40" height="40" title="Raspberry Pi"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim editor" width="40" height="40" title="VIM terminal text editor"/> </a>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/4ad917c0-f574-4b03-bb21-fa0200817288.svg)](https://wakatime.com/@4ad917c0-f574-4b03-bb21-fa0200817288)
