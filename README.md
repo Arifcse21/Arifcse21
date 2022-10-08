@@ -7,6 +7,7 @@
 - 💬 Ask me about **Linux, Python, Django, Raspberry Pi, AWS**
 
 - 📫 How to reach me **arifcse21@gmail.com**
+- My resume <a href="https://docs.google.com/document/d/11GdbzV8fL9NRfPwpKTdU9FGUaGzibN4GlB2_e589tO0/edit?usp=sharing" target="blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
