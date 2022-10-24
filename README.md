@@ -57,4 +57,5 @@
 <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40" title="Solr Search"/> </a> 
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="raspberry pi" width="40" height="40" title="Raspberry Pi"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim editor" width="40" height="40" title="VIM terminal text editor"/> </a>
+<a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="vim editor" width="40" height="40" title="Robot OS v.2"/> </a>
 </p>
