@@ -23,6 +23,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python3"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/> </a> 
  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" title="PyQT"/> </a> 
+  <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="vim editor" width="40" height="40" title="Robot OS v.2"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="Javascript" /> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C Language"/> </a>
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++ Language" /> </a> 
@@ -57,5 +58,4 @@
 <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40" title="Solr Search"/> </a> 
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="raspberry pi" width="40" height="40" title="Raspberry Pi"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim editor" width="40" height="40" title="VIM terminal text editor"/> </a>
-<a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="vim editor" width="40" height="40" title="Robot OS v.2"/> </a>
 </p>
