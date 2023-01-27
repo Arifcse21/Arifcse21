@@ -8,8 +8,8 @@
 
 - 📫 How to reach me **arifcse21@gmail.com**
 
-- <a href="https://medium.com/@arifcse21" target="blank">Read My Blogs</a>
-- <a href="https://docs.google.com/document/d/11GdbzV8fL9NRfPwpKTdU9FGUaGzibN4GlB2_e589tO0/edit?usp=sharing" target="blank">My Resume</a>
+- <a href="https://medium.com/@arifcse21" target="_blank">Read My Blogs</a>
+- <a href="https://docs.google.com/document/d/11GdbzV8fL9NRfPwpKTdU9FGUaGzibN4GlB2_e589tO0/edit?usp=sharing" target="_blank">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
