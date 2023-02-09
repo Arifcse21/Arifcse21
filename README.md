@@ -55,3 +55,7 @@
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="raspberry pi" width="40" height="40" title="Raspberry Pi"/> </a> 
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim editor" width="40" height="40" title="VIM terminal text editor"/> </a>
 </p>
+
+<p align="left">
+<a href="https://docs.google.com/document/d/1pUWfr2y7MOOCqwLyhK5XlvB4HuM3lKVqpwJK2NHEWfU/edit?usp=sharing">Skill Development Certificates</a> 
+</p>
