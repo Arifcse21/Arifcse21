@@ -1,8 +1,3 @@
-<style>
-  table, tr, td, th{
-  'border': '0px';
-}
-</style>
 
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Arif</h1>
 <h3 align="center">A Passionate Backend Software Engineer from Bangladesh 🇧🇩</h3>
@@ -17,7 +12,7 @@
 - <a href="https://medium.com/@arifcse21" target="_blank">Read My Blogs</a>
 - <a href="https://docs.google.com/document/d/11GdbzV8fL9NRfPwpKTdU9FGUaGzibN4GlB2_e589tO0/edit?usp=sharing" target="_blank">My Resume</a>
 
-<table>
+<table cellspacing="0" cellpadding="0">
 <td><h3 align="left">Connect with me:</h3></td>
 <td><a href="https://linkedin.com/in/arifcse21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifcse21" height="30" width="40" title="Md Abdullah Al Arif"/></a>
 <a href="https://t.me/Arifcse21" target="_blank" ><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png" alt="arifcse21" height="30" width="40" title="@Arifcse21"/></a></td>
