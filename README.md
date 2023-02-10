@@ -1,3 +1,11 @@
+<style>
+  table, tr, td, th{
+  padding: 10px;
+  margin: auto;
+  border: none;
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Arif</h1>
 <h3 align="center">A Passionate Backend Software Engineer from Bangladesh 🇧🇩</h3>
 
