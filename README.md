@@ -53,3 +53,7 @@
 <p align="left">
 <a href="https://docs.google.com/document/d/1pUWfr2y7MOOCqwLyhK5XlvB4HuM3lKVqpwJK2NHEWfU/edit?usp=sharing">Skill Development Certificates</a> 
 </p>
+
+<a href="https://github.com/Arifcse21">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arifcse21&langs_count=100&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
+ </a>
