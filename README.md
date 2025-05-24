@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/e28320b4-e3fc-4df1-acca-5ca1570e0a43)
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Arif</h1>
 <h3 align="center">A Passionate Backend Software Engineer from Bangladesh 🇧🇩</h3>
 
@@ -24,7 +24,7 @@
  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50" height="50" title="PyQT"/> </a> 
   <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="vim editor" width="50" height="50" title="Robot OS v.2"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="50" title="Javascript" /> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" title="Bootstrap" /> </a> 
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="VueJS" width="50" height="50" title="VueJS" /> </a> 
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" title="BASH"/> 
 
 
