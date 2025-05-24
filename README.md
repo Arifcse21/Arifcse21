@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/e28320b4-e3fc-4df1-acca-5ca1570e0a43)
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Arif</h1>
 <h3 align="center">A Passionate Backend Software Engineer from Bangladesh 🇧🇩</h3>
 
