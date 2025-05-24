@@ -15,16 +15,18 @@
 <a href="https://linkedin.com/in/arifcse21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifcse21" height="45" width="45" title="Md Abdullah Al Arif"/></a>
 <a href="https://t.me/Arifcse21" target="_blank" ><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png" alt="arifcse21" height="45" width="45" title="@Arifcse21"/></a>
 
+
 <h4 align="left">Languages and Frameworks:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" title="Python3"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" title="Django"/> </a> 
-   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="django rest framework" width="50" height="50" title="DjangoREST" /> </a>
-   <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/7.2.x/_static/pytest_logo_curves.svg" alt="PyTest" width="50" height="50" title="PyTest" /> </a>
- <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mzt3qn72zQbBhjt1Lp5xgQ.png" alt="qt" width="50" height="50" title="Go Gin"/> </a> 
-  <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="vim editor" width="50" height="50" title="Robot OS v.2"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="50" title="Javascript" /> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="VueJS" width="50" height="50" title="VueJS" /> </a> 
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" title="BASH"/> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" title="Django"/> </a> 
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="django rest framework" width="50" height="50" title="DjangoREST" /> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50" height="50" title="FastAPI" /> </a>
+<a href="https://www.graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="graphql" width="50" height="50" title="GraphQL" /> </a>
+<a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/7.2.x/_static/pytest_logo_curves.svg" alt="PyTest" width="50" height="50" title="PyTest" /> </a>
+<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mzt3qn72zQbBhjt1Lp5xgQ.png" alt="qt" width="50" height="50" title="Go Gin"/> </a> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="VueJS" width="50" height="50" title="VueJS" /> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" title="BASH"/>
+<a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="vim editor" width="50" height="50" title="Robot OS v.2"/> </a>
 
 
 
@@ -36,12 +38,14 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50" title="Redis"/></a>
 <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/1075/celery.png" alt="celery" width="50" height="50" title="celery"/> </a> 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" title="Nginx" /> </a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="kafka" width="50" height="50" title="Kafka" /> </a> 
 
 <h4 align="left">DevOps:</h4>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" title="AWS"/> </a> 
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" title="Docker"/> </a> 
- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50" title="Jenkins"/> </a> 
-
+<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/6340ceb04078362242dd4eb9/636131fe1f44d41e7af2eb78_terraform-logo.png" width="50" height="50" title="Terraform"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" title="Docker"/> </a> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50" title="Jenkins"/> </a> 
+<a href="http://elastic.co/elastic-stack" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*vZDu4Bwj2GxQh8t1IjDq4w.png" alt="elk" width="100" height="40" title="ELK"/> </a> 
 
 <h4 align="left">Tools:</h4>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" title="I Love Linux"/> </a>
