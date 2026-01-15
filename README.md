@@ -18,7 +18,7 @@
 <h4 align="left">Languages and Frameworks:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" title="Python3"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" title="Django"/> </a> 
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="django rest framework" width="50" height="50" title="DjangoREST" /> </a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="50" title="DjangoREST" /> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50" height="50" title="FastAPI" /> </a>
 <a href="https://www.graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="graphql" width="50" height="50" title="GraphQL" /> </a>
 <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/7.2.x/_static/pytest_logo_curves.svg" alt="PyTest" width="50" height="50" title="PyTest" /> </a>
