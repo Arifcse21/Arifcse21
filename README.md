@@ -4,12 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifcse21&label=Profile%20views&color=0e75b6&style=flat" alt="arifcse21" /> </p>
 
 
-- 💬 Ask me about **Linux, Python, Raspberry Pi, AWS**
+- 💬 Ask me about **Linux, Python, REST API, GraphQL, Django, FastAPI, CICD, AWS**
 
 - 📫 How to reach me **arifcse21@gmail.com**
 
 - <a href="https://medium.com/@arifcse21" target="_blank">Read My Blogs</a>
-- <a href="https://docs.google.com/document/d/11GdbzV8fL9NRfPwpKTdU9FGUaGzibN4GlB2_e589tO0/edit?usp=sharing" target="_blank">My Resume</a>
 
 <h4 align="left">Connect with me:</h4>
 <a href="https://linkedin.com/in/arifcse21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifcse21" height="45" width="45" title="Md Abdullah Al Arif"/></a>
