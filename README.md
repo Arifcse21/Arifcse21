@@ -1,58 +1,155 @@
-<h1 align="center">Hi 👋, I'm Md Abdullah Al Arif</h1>
-<h3 align="center">A Passionate Backend Software Engineer from Bangladesh 🇧🇩</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifcse21&label=Profile%20views&color=0e75b6&style=flat" alt="arifcse21" /> </p>
+```
+╔══════════════════════════════════════════════════════════╗
+║   DevOps & Backend Engineer · Dhaka, Bangladesh 🇧🇩    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
+# Md Abdullah Al Arif
 
-- 💬 Ask me about **Linux, Python, REST API, GraphQL, Django, FastAPI, CICD, AWS**
+**Building distributed backend systems and cloud-native infrastructure.**  
+Python · Kubernetes · GraphQL · Kafka · ArgoCD · Apollo Federation
 
-- 📫 How to reach me **arifcse21@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arifcse21-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/arifcse21)
+[![Medium](https://img.shields.io/badge/Medium-@arifcse21-000000?style=flat-square&logo=medium)](https://medium.com/@arifcse21)
+[![Telegram](https://img.shields.io/badge/Telegram-@Arifcse21-26A5E4?style=flat-square&logo=telegram)](https://t.me/Arifcse21)
+[![Email](https://img.shields.io/badge/Email-arifcse21@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:arifcse21@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=arifcse21&style=flat-square&color=1D9E75)](https://github.com/arifcse21)
 
-- <a href="https://medium.com/@arifcse21" target="_blank">Read My Blogs</a>
+</div>
 
-<h4 align="left">Connect with me:</h4>
-<a href="https://linkedin.com/in/arifcse21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifcse21" height="45" width="45" title="Md Abdullah Al Arif"/></a>
-<a href="https://t.me/Arifcse21" target="_blank" ><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-1024.png" alt="arifcse21" height="45" width="45" title="@Arifcse21"/></a>
+---
 
+## ⚡ At a Glance
 
-<h4 align="left">Languages and Frameworks:</h4>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" title="Python3"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" title="Django"/> </a> 
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="50" height="50" title="DjangoREST" /> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50" height="50" title="FastAPI" /> </a>
-<a href="https://www.graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png" alt="graphql" width="50" height="50" title="GraphQL" /> </a>
-<a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/7.2.x/_static/pytest_logo_curves.svg" alt="PyTest" width="50" height="50" title="PyTest" /> </a>
-<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*mzt3qn72zQbBhjt1Lp5xgQ.png" alt="qt" width="50" height="50" title="Go Gin"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="VueJS" width="50" height="50" title="VueJS" /> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" title="BASH"/>
-<a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="vim editor" width="50" height="50" title="Robot OS v.2"/> </a>
+| 15+ Microservices Unified | 50% Release Cycle Reduction | 3+ Years Production |
+|:---:|:---:|:---:|
+| Apollo Federation · POS at Scale | GitOps with ArgoCD & K8s | Django · FastAPI · DevOps |
 
+---
 
+## 💼 Experience
 
+**Software Developer** · [One Direction Companies Ltd.](https://github.com/arifcse21) · *Aug 2024 – Present*
+> - Centralized GraphQL API via **Apollo Federation** unifying 15+ independent POS microservices
+> - GitOps CI/CD pipeline with **Ansible, ArgoCD, Kubernetes & GitHub Actions** — 50% faster releases
+> - Built **Kong Gateway** window-based rate limiting plugin in Lua + Redis; Prometheus/Grafana observability
+> - Event-driven architecture with **Apache Kafka** for async inter-service communication
+>
+> `Python` `Django` `GraphQL` `Kubernetes` `ArgoCD` `Ansible` `Kafka` `Kong Gateway` `Terraform` `Redis` `Lua` `GitHub Actions`
 
-<h4 align="left">Databases and Servers:</h4>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" title="PostgreSQL"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" title="MySQL"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50" title="sqlite3" /> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50" title="Redis"/></a>
-<a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/1075/celery.png" alt="celery" width="50" height="50" title="celery"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" title="Nginx" /> </a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="kafka" width="50" height="50" title="Kafka" /> </a> 
+---
 
-<h4 align="left">DevOps:</h4>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" title="AWS"/> </a> 
-<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/6340ceb04078362242dd4eb9/636131fe1f44d41e7af2eb78_terraform-logo.png" width="50" height="50" title="Terraform"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" title="Docker"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50" title="Jenkins"/> </a> 
-<a href="http://elastic.co/elastic-stack" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*vZDu4Bwj2GxQh8t1IjDq4w.png" alt="elk" width="100" height="40" title="ELK"/> </a> 
+**Python Django Developer** · [TechForing Limited](https://techforing.com) · *Jun 2023 – Jul 2024*
+> - Led a team of 4; delivered enterprise CRM for **250+ clients**, cutting onboarding from 4–5 days to **< 24 hours**
+> - Built real-time live chat & push notifications via **WebSockets** + Celery notification engine
+> - Managed CI/CD across staging and production; AWS S3 integration for document storage
+>
+> `DRF` `JWT` `WebSocket` `Celery` `AWS EC2/S3` `PyTest` `Swagger`
 
-<h4 align="left">Tools:</h4>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" title="I Love Linux"/> </a>
-</a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" title="GIT"/> </a> 
-<a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="50" height="50" title="Solr Search"/> </a> 
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="raspberry pi" width="50" height="50" title="Raspberry Pi"/> </a> 
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim editor" width="50" height="50" title="VIM terminal text editor"/> </a>
+---
 
-<p align="left">
-<a href="https://docs.google.com/document/d/1pUWfr2y7MOOCqwLyhK5XlvB4HuM3lKVqpwJK2NHEWfU/edit?usp=sharing">Skill Development Certificates</a> 
-</p>
+**Backend Developer (Part-time)** · LegoIO LLC, Maryland USA *(Remote)* · *Aug 2023 – Jun 2024*
+> - Production backend for **Resumenalyzer**, an AI SaaS processing **200+ resumes/month**
+> - NLP model API integration with async orchestration via Celery and result normalisation pipeline
+> - **Apache Solr** full-text search across resume corpus for ranked document retrieval
+>
+> `Python` `Django` `Solr` `Celery` `REST API` `AI/ML Integration`
+
+---
+
+**Junior Developer** · Sawari Overseas · *Jul 2022 – May 2023*
+> - Travelport uAPI (SOAP/XML) for real-time flight search, pricing, booking & cancellation
+> - JWT auth & RBAC; PyTest suites for GDS response parsing validation
+>
+> `DRF` `PostgreSQL` `Travelport GDS` `JWT` `AWS` `PyTest`
+
+---
+
+## 🚀 Open Source
+
+### [dStats — Docker Statistics & Network Visualizer](https://github.com/arifcse21/dstats)
+> Real-time container monitoring system using Docker SDK. Processes **10+ metrics/sec per node** with live network graph visualisation.
+>
+> [![PyPI](https://img.shields.io/pypi/v/dStats?style=flat-square&logo=pypi&color=1D9E75)](https://pypi.org/project/dStats)
+> [![Docker Hub](https://img.shields.io/docker/pulls/arifcse21/dstats?style=flat-square&logo=docker&color=2496ED)](https://hub.docker.com/r/arifcse21/dstats)
+>
+> `Docker SDK` `Python` `Network Graph` `DevOps` `Stats`
+
+---
+
+## 🛠 Technical Skills
+
+<details>
+<summary><b>Languages & Frameworks</b></summary>
+
+| Category | Technologies |
+|---|---|
+| Languages | Python, Go (Gin), Lua, Bash |
+| Frameworks | Django, FastAPI, DRF, GraphQL, Vue.js |
+| API | REST, GraphQL, Apollo Federation, WebSocket, SOAP/XML |
+
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+
+| Category | Technologies |
+|---|---|
+| Orchestration | Kubernetes, ArgoCD, GitOps |
+| IaC & Config | Terraform, Ansible |
+| Cloud | AWS (EC2, S3, RDS) |
+| Containers | Docker |
+| CI/CD | GitHub Actions, Jenkins |
+| Observability | Prometheus, Grafana, ELK Stack |
+
+</details>
+
+<details>
+<summary><b>Databases & Messaging</b></summary>
+
+| Category | Technologies |
+|---|---|
+| Relational | PostgreSQL, MySQL, SQLite |
+| NoSQL & Graph | Redis, Neo4j |
+| Messaging | Apache Kafka, Celery |
+| Search | Apache Solr, Elasticsearch |
+| Gateway | Kong Gateway |
+
+</details>
+
+---
+
+## 🏆 Key Achievements
+
+🥇 **Employee of the Quarter** — TechForing Limited  
+Awarded for leading the CRM team and delivering ahead of schedule, cutting client onboarding by **60%**. Recognised multiple times as Employee of the Month for shipping production-ready code ahead of sprint deadlines.
+
+---
+
+## 🎓 Education
+
+**B.Sc. Engineering in Computer Science & Engineering** · Graduated March 2022  
+Bangladesh Army University of Science & Technology (BAUST)
+
+[![Certificates](https://img.shields.io/badge/Skill%20Development-Certificates-1D9E75?style=flat-square)](https://docs.google.com/document/d/1pUWfr2y7MOOCqwLyhK5XlvB4HuM3lKVqpwJK2NHEWfU/edit?usp=sharing)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifcse21&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifcse21&layout=compact&hide_border=true&title_color=1D9E75&langs_count=6)
+
+</div>
+
+---
+
+<div align="center">
+
+*💬 Ask me about* **Linux · Python · Django · FastAPI · GraphQL · Kubernetes · CI/CD · AWS · Kafka**
+
+</div>
