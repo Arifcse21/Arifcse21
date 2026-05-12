@@ -137,17 +137,6 @@ Bangladesh Army University of Science & Technology (BAUST)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifcse21&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifcse21&layout=compact&hide_border=true&title_color=1D9E75&langs_count=6)
-
-</div>
-
----
-
 <div align="center">
 
 *💬 Ask me about* **Linux · Python · Django · FastAPI · GraphQL · Kubernetes · CI/CD · AWS · Kafka**
