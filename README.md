@@ -2,7 +2,7 @@
 
 ```
 ╔═════════════════════════════════════════════════════════════╗
-║        DevOps Engineer · Dhaka, Bangladesh 🇧🇩             ║
+║        DevOps Engineer · Dhaka, Bangladesh 🇧🇩               ║
 ║   Kubernetes · GitOps · Terraform · Observability · Kafka   ║
 ╚═════════════════════════════════════════════════════════════╝
 ```
